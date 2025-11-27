@@ -1,6 +1,6 @@
                           
  
-![Awesome ReadME](https://github.com/blobjob2/test/raw/master/wooden-5635486_1280.jpg)
+![Awesome ReadME](wooden-5635486_1280.jpg)
  
 # PhishGuard
 
