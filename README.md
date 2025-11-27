@@ -1,6 +1,6 @@
                           
  
-![Awesome ReadME](https://github.com/pottekkat/awesome-readme/raw/master/header.png)
+![Awesome ReadME](https://cdn.pixabay.com/photo/2020/10/07/15/15/wooden-5635486_1280.jpg
  
 # PhishGuard
 
@@ -16,7 +16,6 @@ This is a tool to protect users from phishing emails.
 
 This is a table of contents for your project. It helps the reader navigate through the README quickly.
 - [Project Title](#project-title)
-- [Quick Start Demo](#quick-start-demo)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -41,7 +40,7 @@ gh repo clone Hillmans-Forge/Group-Project-PhishGuard
 # Usage
 [(Back to top)](#table-of-contents)
 
-You can use the this phishing tool by ….
+You can use the this phishing tool to scan suspicious emails.
 
  
 # Development
