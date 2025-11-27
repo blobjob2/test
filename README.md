@@ -20,7 +20,6 @@ This is a table of contents for your project. It helps the reader navigate throu
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
-- [Contribute](#contribute)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -46,18 +45,11 @@ You can use the this phishing tool to scan suspicious emails.
 
 placeholder
 
- 
-# Contribute
-[(Back to top)](#table-of-contents)
-
-You can use this section to highlight how people can contribute to your project.
-
-You can add information on how they can open issues or how they can sponsor the project.
 
 # Contributors
--[Github](https://github.com/Hillmans-Forge)
+- [Hillmans-Forge](https://github.com/Hillmans-Forge)
 
-github.com/blobjob2
+- [blobjob2](https://github.com/blobjob2)
 
  
 # Licence
