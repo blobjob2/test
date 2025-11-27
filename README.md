@@ -28,9 +28,7 @@ This is a table of contents for your project. It helps the reader navigate throu
 # Installation
 [(Back to top)](#table-of-contents)
 
-This is where your installation instructions go.
-
-You can add snippets here that your readers can copy-paste with click:
+You can clone the repository using this command
 
 ```shell
 gh repo clone Hillmans-Forge/Group-Project-PhishGuard
@@ -46,11 +44,7 @@ You can use the this phishing tool to scan suspicious emails.
 # Development
 [(Back to top)](#table-of-contents)
 
-You can clone the repository using the command below:
-
-```shell
-git clone https://github.com/Hillmans-Forge/Group-Project-PhishGuard-
-```
+placeholder
 
  
 # Contribute
@@ -62,14 +56,15 @@ You can add information on how they can open issues or how they can sponsor the 
 
 # Contributors
 github.com/Hillmans-Forge
+
 github.com/blobjob2
 
  
-# License
+# Licence
 [(Back to top)](#table-of-contents)
 
-You can also mention what license the project uses. I usually add it like this:
+This is our licence
 
-[MIT license](./LICENSE)
+[MIT licence](./LICENCE)
 
 
